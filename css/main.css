@@ -209,3 +209,7 @@ footer li:last-child {
 .partners__item {
 	display: inline-block;
 }
+
+.offer__button a, nav a, .up { 
+    transition: all .2s ease-in-out;
+} 
